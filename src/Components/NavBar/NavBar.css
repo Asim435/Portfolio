@@ -1,0 +1,20 @@
+.icons{
+ font-size: x-large;   
+ display: flex; 
+
+ color: white;
+}
+.fontIcon{
+
+  cursor: pointer;
+
+}
+.navbar-toggle-custom {
+    border-color: white; /* Set the border color */
+  }
+  .Nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
